@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://woriongo.github.io/sitemap.html.gz
+Sitemap: https://woriongo.github.io/app/sitemap.html.gz
+Sitemap: https://woriongo.github.io/assets/sitemap.html.gz
+Sitemap: https://woriongo.github.io/css/sitemap.html.gz
+Sitemap: https://woriongo.github.io/includes/sitemap.html.gz
+Sitemap: https://woriongo.github.io/item/sitemap.html.gz
+Sitemap: https://woriongo.github.io/src/sitemap.html.gz
